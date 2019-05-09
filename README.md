@@ -8,8 +8,8 @@ By non resnet architectures, we were able to achieve the accuracy of **97.18%**.
 ### Our Architecture
 
 _________________________________________________________________
-Layer (type)                 Output Shape              Parameters   
-=================================================================
+Layer (type)                 Output Shape              Parameters
+_________________________________________________________________
 input_1 (InputLayer)         (None, 28, 28, 1)         0         
 _________________________________________________________________
 zero_padding2d_1 (ZeroPaddin (None, 32, 32, 1)         0         
